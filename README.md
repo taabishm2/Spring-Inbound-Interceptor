@@ -1,7 +1,7 @@
 # Spring-Inbound-Interceptor
 Perform logging or other logic on all inbound HTTP requests to a Spring MVC App using OncePerRequestFilter
 
-Use the `Inbound-Interceptor.postman_collection.json` to interact with the App. To demonstrate the working, all logs are printed on the console. However, any arbitrary logic may be placed here instead to log or modify all inbound HTTP calls. 
+Use the `Inbound-Interceptor.postman_collection.json` to interact with the App. For demonstration purposes, all logs are printed on the console. However, any arbitrary logic may be placed here instead in order to log or modify all inbound HTTP calls. 
 
 * Allows capturing request/response body via ContentCachingWrappers. Prevents empty response as the default HttpServletResponse can be consumed only once
 * Works for all content-types and HTTP methods (unlike the https://www.baeldung.com/spring-http-logging method which works only for Content-Type:application/x-www-form-urlencoded and Method-Type:POST)
