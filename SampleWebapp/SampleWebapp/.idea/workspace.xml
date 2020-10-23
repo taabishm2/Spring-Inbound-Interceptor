@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="489ae4be-19c0-4961-b553-91b94d9859a1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1idhx1DdsFMn6m64UTXv7fmcrzH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../playWebapp" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.SampleWebapp.config" />
+      <recent name="com.example.SampleWebapp" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Tabish\Documents\Increff\Playground\SampleWebapp\SampleWebapp\src\main\java\com\example\SampleWebapp\es" />
+      <recent name="C:\Users\Tabish\Documents\Increff\Playground\SampleWebapp\SampleWebapp\src\main\java\com\example\SampleWebapp" />
+      <recent name="C:\Users\Tabish\Documents\Increff\Playground\SampleWebapp\SampleWebapp" />
+      <recent name="C:\Users\Tabish\Documents\Increff\Playground\SampleWebapp\SampleWebapp\src\main\webapp\WEB-INF" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ThreadTester">
+    <configuration name="ThreadTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.SampleWebapp.config.ThreadTester" />
+      <module name="SampleWebapp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.SampleWebapp.config.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleWebapp [mvn,jetty:run]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="mvn" />
+                <option value="jetty:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.ThreadTester" />
+      <item itemvalue="Maven.SampleWebapp [mvn,jetty:run]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ThreadTester" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="489ae4be-19c0-4961-b553-91b94d9859a1" name="Default Changelist" comment="" />
+      <created>1602243618663</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602243618663</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="96" y="15" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602244380879">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="96" y="15" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.720@0.0.1280.720" timestamp="1602244380879" />
+    <state x="446" y="64" key="#com.intellij.ide.util.MemberChooser" timestamp="1602400346710">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="446" y="64" key="#com.intellij.ide.util.MemberChooser/0.0.1280.720@0.0.1280.720" timestamp="1602400346710" />
+    <state x="371" y="107" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602408392577">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="371" y="107" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.720@0.0.1280.720" timestamp="1602408392577" />
+    <state x="421" y="115" key="FileChooserDialogImpl" timestamp="1602394684225">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="421" y="115" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1602394684225" />
+    <state width="1237" height="348" key="GridCell.Tab.0.bottom" timestamp="1602395136554">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="348" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1602395136554" />
+    <state width="1237" height="348" key="GridCell.Tab.0.center" timestamp="1602395136554">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="348" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1602395136554" />
+    <state width="1237" height="348" key="GridCell.Tab.0.left" timestamp="1602395136553">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="348" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1602395136553" />
+    <state width="1237" height="348" key="GridCell.Tab.0.right" timestamp="1602395136554">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="348" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1602395136554" />
+    <state x="171" y="15" key="Maven.ArtifactSearchDialog" timestamp="1602325930126">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="171" y="15" key="Maven.ArtifactSearchDialog/0.0.1280.720@0.0.1280.720" timestamp="1602325930126" />
+    <state x="142" y="3" key="SettingsEditor" timestamp="1602325958344">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="142" y="3" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1602325958344" />
+    <state x="314" y="184" key="com.intellij.ide.util.TipDialog" timestamp="1602563279599">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="314" y="184" key="com.intellij.ide.util.TipDialog/0.0.1280.720@0.0.1280.720" timestamp="1602563279599" />
+    <state x="371" y="105" key="extract.method.dialog" timestamp="1602320176629">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="371" y="105" key="extract.method.dialog/0.0.1280.720@0.0.1280.720" timestamp="1602320176629" />
+    <state x="324" y="81" width="763" height="628" key="find.popup" timestamp="1603434373281">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="324" y="81" width="763" height="628" key="find.popup/0.0.1280.720@0.0.1280.720" timestamp="1603434373281" />
+    <state x="287" y="0" key="new project wizard" timestamp="1602394628020">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="287" y="0" key="new project wizard/0.0.1280.720@0.0.1280.720" timestamp="1602394628020" />
+    <state x="350" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1602323842158">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="350" y="0" key="refactoring.ChangeSignatureDialog/0.0.1280.720@0.0.1280.720" timestamp="1602323842158" />
+    <state x="297" y="161" key="run.anything.popup" timestamp="1602332326002">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="297" y="161" key="run.anything.popup/0.0.1280.720@0.0.1280.720" timestamp="1602332326002" />
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1602333745027">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1280.720@0.0.1280.720" timestamp="1602333745027" />
+  </component>
+</project>

@@ -1,0 +1,5 @@
+com\example\SampleWebapp\config\StatusReportingFilter.class
+com\example\SampleWebapp\config\MyHelper.class
+com\example\SampleWebapp\HelloWorldController.class
+com\example\SampleWebapp\config\AppConfig.class
+com\example\SampleWebapp\config\AbstractAppConfig.class
